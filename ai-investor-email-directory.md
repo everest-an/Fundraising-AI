@@ -121,4 +121,25 @@
 | Bloomberg Beta | bloombergbeta.com | `leslie.paul@bloombergbeta.com`（LP 代表） | ✅；📋 格式 `first@bloombergbeta.com` |
 | OpenAI Startup Fund | openai.fund | `hello@openai.fund` | ✅ |
 
+## 五、第三批补充（企业 CVC + AI 专业）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| Air Street Capital（Nathan Benaich） | airstreet.com | `nathan@airstreet.com` | ✅（AI-only，美/欧） |
+| GV（Google Ventures） | gv.com | `press@gv.com` / `privacy@gv.com` | ✅；⚠️ `info@gv.com` |
+| NVIDIA NVentures | nvidia.com/startups/nventures | （无公开邮箱，官网 press portal） | ❌ |
+| Salesforce Ventures | salesforceventures.com | `salesforceventures@salesforce.com` | ✅ |
+| M12（Microsoft） | m12.vc | `info@m12.vc` | ⚠️ |
+| Section 32 | s32.com | （无公开，暖介绍优先） | ❌；📋 格式 `first@s32.com` |
+
+## 六、第四批补充（2026-08-25）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| Kindred Ventures | kindredventures.com | `hello@kindredventures.com` | ✅ |
+| Insight Partners | insightpartners.com | `growth@insightpartners.com` / `community@insightpartners.com` | ✅ |
+| Initialized Capital | initialized.com | （无公开，官网称 email 为主要渠道） | ❌ |
+| Coatue Management | coatue.com | （无公开，官网表单） | ❌ |
+| Tiger Global | tigerglobal.com | （无公开） | 📋 格式 `FLast@tigerglobal.com` |
+
 > 本文件持续更新中——「待补」项会继续通过搜索补全。
