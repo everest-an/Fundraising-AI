@@ -9,6 +9,7 @@
 | 2026-08-25 | 5 家 Seed 轮及以下 AI 初创：投资机构与联系方式 | [2026-08-25-ai-seed-startups-investors.md](2026-08-25-ai-seed-startups-investors.md) |
 | 2026-08-25 | 增量批次 2：更多近期融资的 AI 初创 + VC 邮箱（11 家） | [2026-08-25-ai-seed-roundup-batch2.md](2026-08-25-ai-seed-roundup-batch2.md) |
 | 2026-08-25 | 增量批次 3：7 月融资 + 法律/垂直 AI + Agent 安全（13 家） | [2026-08-25-ai-seed-roundup-batch3.md](2026-08-25-ai-seed-roundup-batch3.md) |
+| 2026-08-25 | 增量批次 4：开发者工具 + 销售 GTM + 医疗 AI（17 家） | [2026-08-25-ai-seed-roundup-batch4.md](2026-08-25-ai-seed-roundup-batch4.md) |
 
 ## 本期速览（2026-08-25）
 
@@ -23,6 +24,8 @@
 **增量批次 2（2026-08-25，共 11 家）**：FriskAI、Optiak、Echovane、Lemma、Incredible、Neuromorphic Labs、Xpander、Hypercubic、Discovered Materials、Osmo Studio、ClearPath AI —— 详见 [批次 2 文档](2026-08-25-ai-seed-roundup-batch2.md)。
 
 **增量批次 3（2026-08-25，共 13 家）**：Fish Audio、Oak、Polar、Enigma、Cascade、Cheiron、Parambil、Bayshore、Sandstone、Crimson、Vector Legal、Kyvvu、June —— 详见 [批次 3 文档](2026-08-25-ai-seed-roundup-batch3.md)。
+
+**增量批次 4（2026-08-25，共 17 家）**：Space、Hermetiq、Multiplier、Blueprint、Kris@Work、Enrola、Outcraft AI、Optivian、Handhold、Wayy.ai、Lucrative、MiiHealth AI、Amorphous AI、Tross、Knit Health、Trase、Verascient —— 详见 [批次 4 文档](2026-08-25-ai-seed-roundup-batch4.md)。
 
 ## 说明
 
