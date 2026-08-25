@@ -175,4 +175,15 @@
 | SOSV | sosv.com | `contact@sosv.com` | ✅ |
 | Freestyle Capital | freestyle.vc | `media@freestyle.vc` | ✅ |
 
+## 九、第七批补充（AI 种子基金 + 个人合伙人）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| Homebrew | homebrew.co | `hunter@homebrew.co` / `satya@homebrew.co`（合伙人） | ✅ 个人 |
+| BootstrapLabs（Ares 旗下） | bootstraplabs.com | （无公开） | 📋 格式 `first@bootstraplabs.com` |
+| Streamlined Ventures | streamlined.vc | （无公开） | 📋 格式 `first@streamlined.vc` |
+| AME Cloud Ventures（Jerry Yang） | amecloudventures.com | `pr@amecloudventures.com` | ✅；⚠️ `contact@amecloudventures.com` |
+| Hyperplane Venture Capital | hyperplane.vc | `samara@hyperplane.vc` | ✅ |
+| Granite Asia（原 GGV） | graniteasia.com | （无公开） | ❌ |
+
 > 本文件持续更新中——「待补」项会继续通过搜索补全。
