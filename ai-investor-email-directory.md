@@ -105,4 +105,20 @@
 - **📋 格式**：非单个邮箱，而是公开邮箱命名规律，用于推导具体合伙人邮箱（如 `Sarah Guo` → `sarah@conviction.com`），推导结果需用邮箱验证工具（Hunter.io / NeverBounce）核验。
 - **❌ 无公开**：走官网表单或 LinkedIn 暖介绍。
 
+## 四、第二批补充（2026-08-25）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| NEA | nea.com | `esunkin@nea.com`（PR Erica Sunkin）/ `kbarrett@nea.com` | ✅/⚠️ |
+| Unusual Ventures | unusual.vc | `info@unusual.vc` | ✅ |
+| Soma Capital | somacap.com | `ar@somacap.com` / `info@somacap.com` | ✅/⚠️ |
+| Wing Venture Capital | wing.vc | `hello@wing.vc` / `info@wing.vc` | ✅ |
+| Susa Ventures | susaventures.com | （无公开 info） | 📋 格式 `first@susaventures.com` |
+| NFX | nfx.com | `qed@nfx.com` / `press@nfx.com` | ✅ |
+| Pear VC | pear.vc | `info@pear.vc` | ✅ |
+| 8VC | 8vc.com | `media@8vc.com` | ✅ |
+| True Ventures | trueventures.com | `hello@trueventures.com` / `press@trueventures.com` | ✅ |
+| Bloomberg Beta | bloombergbeta.com | `leslie.paul@bloombergbeta.com`（LP 代表） | ✅；📋 格式 `first@bloombergbeta.com` |
+| OpenAI Startup Fund | openai.fund | `hello@openai.fund` | ✅ |
+
 > 本文件持续更新中——「待补」项会继续通过搜索补全。
