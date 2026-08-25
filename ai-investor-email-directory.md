@@ -142,4 +142,20 @@
 | Coatue Management | coatue.com | （无公开，官网表单） | ❌ |
 | Tiger Global | tigerglobal.com | （无公开） | 📋 格式 `FLast@tigerglobal.com` |
 
+## 七、第五批补充（中小基金 / 种子基金）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| Harpoon Ventures | harpoon.vc | `info@harpoon.vc` | ✅ |
+| S28 Capital | s28capital.com | `community@s28capital.com` | ✅ |
+| Fika Ventures | fika.vc | （无公开） | 📋 格式 `first@fika.vc` |
+| Floodgate | floodgate.com | `investors@floodgate.com` | ✅ |
+| Cowboy Ventures | cowboy.vc | `hello@cowboy.vc` | ✅ |
+| Precursor Ventures | precursorvc.com | `hello@precursorvc.com` | ✅ |
+| Cherry Ventures | cherry.vc | `hi@cherry.vc` / `opportunity@cherry.vc` / `press@cherry.vc` | ✅ |
+| Northzone | northzone.com | `info@northzone.com` / `press@northzone.com` | ✅ |
+| Point Nine | pointnine.com | `info@pointnine.com` / `info@pointninecap.com` | ✅ |
+| Seedcamp | seedcamp.com | `info@seedcamp.com` / `complaints@seedcamp.com` | ✅ |
+| LocalGlobe | localglobe.vc | （无公开） | 📋 格式 `first@localglobe.vc` |
+
 > 本文件持续更新中——「待补」项会继续通过搜索补全。
