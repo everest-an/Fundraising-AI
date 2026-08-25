@@ -158,4 +158,21 @@
 | Seedcamp | seedcamp.com | `info@seedcamp.com` / `complaints@seedcamp.com` | ✅ |
 | LocalGlobe | localglobe.vc | （无公开） | 📋 格式 `first@localglobe.vc` |
 
+## 八、第六批补充（欧洲 + 全球种子基金）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| Costanoa Ventures | costanoa.vc | `info@costanoa.vc` | ✅ |
+| Liquid 2 Ventures | liquid2.vc | `info@liquid2.vc` | ✅ |
+| Two Sigma Ventures（现 Deviation Capital） | twosigmaventures.com | `pitch@twosigmaventures.com` | ✅ |
+| Creandum | creandum.com | `hello@creandum.com` / `marketing@creandum.com` | ✅ |
+| Upfront Ventures | upfront.com | （无公开） | 📋 格式 `first@upfront.com` |
+| Balderton Capital | balderton.com | （无公开，PR 走团队页） | ❌ |
+| Atomico | atomico.com | `contact@atomico.com` | ✅ |
+| Speedinvest | speedinvest.com | `office@speedinvest.com` | ✅ |
+| HV Capital | hvcapital.com | `info@hvcapital.com` | ✅ |
+| 500 Global | 500.co | `partnerships@500.co` / `press@500.co` | ✅ |
+| SOSV | sosv.com | `contact@sosv.com` | ✅ |
+| Freestyle Capital | freestyle.vc | `media@freestyle.vc` | ✅ |
+
 > 本文件持续更新中——「待补」项会继续通过搜索补全。
