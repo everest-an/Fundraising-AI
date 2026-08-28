@@ -12,6 +12,7 @@
 | 2026-08-25 | 增量批次 4：开发者工具 + 销售 GTM + 医疗 AI（17 家） | [2026-08-25-ai-seed-roundup-batch4.md](2026-08-25-ai-seed-roundup-batch4.md) |
 | 2026-08-25 | 美国 AI-Only / AI-Native 活跃 VC 清单 + 投递邮箱 | [2026-08-25-us-ai-only-vcs.md](2026-08-25-us-ai-only-vcs.md) |
 | 2026-08-25 | **AI 投资人邮箱大全**（持续扩充，✅/⚠️ 标注） | [ai-investor-email-directory.md](ai-investor-email-directory.md) |
+| 2026-08-25 | **机器人公司联系方式**（宇树/智元/Figure 等，MTLNN 泛化学习对口） | [robotics-companies-contacts.md](robotics-companies-contacts.md) |
 
 ## 本期速览（2026-08-25）
 
