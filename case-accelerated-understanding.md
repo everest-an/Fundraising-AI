@@ -59,14 +59,30 @@
 
 ---
 
-## 补充到投资人人脉清单（大机构备注）
+## 事件中出现的所有个人 + 机构（可作为 AwareLiquid 潜在投资/联系对象）
 
-| 机构/个人 | 角色 | 与 AU 关系 | 邮箱/备注 |
-|---|---|---|---|
-| **Jeff Bezos（贝索斯）** | 投资人/创始人 | 通过 Prometheus 开出 $2B+ 邀约**被拒**；后投 Prometheus | explore@bezosexpeditions.com |
-| **Vik Bajaj** | 生物科技投资人/连续创业者 | 撮合者，被拒；后与 Bezos 创 Prometheus | （LinkedIn） |
-| **Project Prometheus** | 物理AI公司 | 曾想并购/吸纳 AU 创始团队**被拒** | （官网 PROMETHEUS 未公开） |
-| **摩根大通 / 高盛 / 贝莱德 / DST Global / ARCH Venture Partners** | 大机构 | 均为 **Prometheus** 投资人（非 AU） | — |
-| **Nvidia（英伟达）** | 芯片/算力 | **未投资 AU**；黄仁勋仅为学术鼓励 | kv@khoslaventures.com 不适用，见 email 库 |
+> 原则：事件里**出现的每一个实体**都列入——他们是否投 AU 跟我没关系，我要联系的是他们**是否愿意投自己的公司**。竞争同行（AU 创始人）也列入并备注，联系价值低但仍是人脉。
 
-> 注：此案例**不新增可投递的 AU 投资人邮箱**（因 AU 未披露投资人）。此表主要为「物理AI/具身AI 赛道 - 大资金动向」的人脉参考。
+| # | 实体 | 类型 | 身份/背景 | 邮箱 | 状态 |
+|---|---|---|---|---|---|
+| 1 | **Jeff Bezos / Bezos Expeditions** | 个人/家族办公室 | 亚马逊创始人；贝索斯家族办公室（Mercer Island, WA），种子-成长期 | `info@bezosexpeditions.com` | ✅ 可联系 |
+| 2 | **Vik Bajaj** | 个人 | 生物科技投资人/连续创业者（前 Verily 联创）；Prometheus 联创 | （LinkedIn，邮箱待补） | ⚠️ 待补 |
+| 3 | **Project Prometheus** | 公司 | 物理AI公司（Bezos+Bajaj），$12B B轮/$410B 估值 | （官网未公开） | ❌ 未公开 |
+| 4 | **Nvidia / 英伟达** | 公司 | 芯片/算力巨头；Anima 前东家（黄仁勋学术鼓励，**未投资AU**） | `info@nvidia.com`；NVentures 见邮件库 | ✅ 已有 |
+| 5 | **ARCH Venture Partners** | 机构 | 深科技 VC；**Prometheus 投资人**（非 AU） | `asp@archventure.com` / `EUInquiries@archventure.com` | ✅ 已有 |
+| 6 | **DST Global** | 机构 | 互联网投资巨头（Yuri Milner）；**Prometheus 投资人** | `info@dst-global.com` | ✅ 可联系 |
+| 7 | **摩根大通 JPMorgan** | 机构 | 投行/资管；**Prometheus 投资人** | （官网，无公开直投邮箱） | ⚠️ 待补 |
+| 8 | **高盛 Goldman Sachs** | 机构 | 投行/资管；**Prometheus 投资人** | （官网，无公开直投邮箱） | ⚠️ 待补 |
+| 9 | **贝莱德 BlackRock** | 机构 | 资管巨头；**Prometheus 投资人** | （官网，无公开直投邮箱） | ⚠️ 待补 |
+| 10 | **Anima Anandkumar** | 个人 | 加州理工教授、前英伟达AI研究总监；**AU 创始人（同行竞争）** | （LinkedIn/Caltech） | ⚠️ 同行，联系价值低 |
+| 11 | **Benedikt Jenik** | 个人 | AI 基础设施工程师；**AU 创始人（同行竞争）** | （LinkedIn） | ⚠️ 同行，联系价值低 |
+
+### 可直接投递的真实邮箱（新补充）
+- **Bezos Expeditions**：`info@bezosexpeditions.com` ✅（贝索斯家族办公室，种子-成长期，最值得联系）
+- **DST Global**：`info@dst-global.com` ✅（互联网投资巨头，Prometheus 投资人）
+
+### 大机构（摩根大通/高盛/贝莱德）联系建议
+- 这些巨型机构**没有公开的对种子/天使直接投资的邮箱**；它们投 Prometheus 是 **$12B 级机构轮**，不是早期天使。
+- 对 AwareLiquid 这种 **$3.5M 天使轮**，直接邮件联系这些大机构**命中率极低**。建议路径：① 通过**投行/LP 关系**间接接触 ② 让**已投你的早期基金**帮忙引荐 ③ 聚焦更匹配的 AI-native 基金（而非大机构）。
+
+> 说明：Anima/Jenik 是竞品创始人（自己的公司也在推），联系他们无融资意义；列为记录。真正值得主动联系的是 **Bezos Expeditions**（天使-成长期）、**DST Global**、**ARCH**（深科技），以及把**摩根大通等当作"赛道风向"参考**而非直接投递目标。
