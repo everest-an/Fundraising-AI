@@ -186,4 +186,22 @@
 | Hyperplane Venture Capital | hyperplane.vc | `samara@hyperplane.vc` | ✅ |
 | Granite Asia（原 GGV） | graniteasia.com | （无公开） | ❌ |
 
+## 十、物理AI / 具身智能赛道（2026-08-25）
+
+| 机构 | 官网 | 邮箱 | 状态 |
+|---|---|---|---|
+| Bezos Expeditions（贝索斯家族办公室） | bezosexpeditions.com | `info@bezosexpeditions.com` | ✅ |
+| DST Global | dst-global.com | `info@dst-global.com` | ✅ |
+| Bond Capital | bondcap.com | `info@bondcap.com` | ✅（投 Physical Intelligence） |
+| CapitalG（Alphabet 增长基金） | capitalg.com | `info@capitalg.com` | 📋 格式 `FLast@capitalg.com`（投 π） |
+| OpenAI Startup Fund | openai.fund | `hello@openai.fund` | ✅（投 π） |
+| Temasek（淡马锡主权） | temasek.com.sg | `info@temasek.com.sg` | ✅ |
+| SoftBank Vision Fund | visionfund.com | （官网表单） | 📋 格式 `first.last@visionfund.com` |
+| Physical Intelligence（π，具身AI战略方） | pi.website | `join@physicalintelligence.network` | ✅ |
+| JPMorgan Chase（大机构） | jpmorganchase.com | `andrew.s.gray@jpmchase.com`（媒体） | ⚠️ 无直投 |
+| Goldman Sachs（大机构） | goldmansachs.com | `gs-uspress@gs.com`（媒体） | ⚠️ 无直投 |
+| BlackRock（大机构） | blackrock.com | `groupcorpcommsamrs@blackrock.com`（媒体） | ⚠️ 无直投 |
+
+> 注：ARCH（`asp@archventure.com`）已在"大型综合平台"节收录，此处不重复。JPMorgan/高盛/BlackRock 为大机构，仅媒体邮箱，$3.5M 天使轮不匹配冷邮件，作风向参考。
+
 > 本文件持续更新中——「待补」项会继续通过搜索补全。
